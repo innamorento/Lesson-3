@@ -34,7 +34,14 @@
 ![alt-текст][logo]
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Текст заголовка логотипа 2"
+
 ## Ссылки
+[Обычная ссылка в строке](https://www.google.com)
+
+[Обычная ссылка с title](https://www.google.com "Сайт Google")
+
+[Относительная ссылка на документ](../blob/master/LICENSE)
+
 
 
 *Введение в контроль версий. Работа с Git*
